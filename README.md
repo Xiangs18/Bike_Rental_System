@@ -51,10 +51,9 @@ For other options, see `python -m pytest -h`
 This code is open source. So feel free to use, modify, share, download as per your need. I do not take risk nor responsibility for your errors or any commercial damage.
 
 ## How to run?
-This code is written in python3.6.
+This code is written in python3.6.6
 
 Simply run
 ```
 python main.py
-
 ```
